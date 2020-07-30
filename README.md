@@ -1,6 +1,6 @@
-### Hi there <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50">
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true)
+
+<img src="https://github.githubassets.com/images/mona-whisper.gif" width="50">
 
 <!--
 **lucpena/lucpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
