@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true) <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" align="right">
+![github stats](https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true) <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180" align="right">
 
 
 <!--
