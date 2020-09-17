@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true" alt="Github Stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact" alt="Github Lang Stats" height="165">&nbsp;
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="50" align="right">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" width="150" align="right">
 
 <!--
 **lucpena/lucpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
