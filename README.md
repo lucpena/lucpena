@@ -1,7 +1,6 @@
-<!--# Welcome
-Hello there! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45">-->
+### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45"> Hello there!
 
-# Profile stats
+## Profile stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
