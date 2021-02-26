@@ -2,9 +2,14 @@
 Hello there! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45">-->
 
 # Profile stats
-<img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="420">
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="420">
+</p>
  
 <!--
 **lucpena/lucpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
