@@ -2,8 +2,8 @@
 Hello there! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45">-->
 
 # Profile stats
-<img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true" alt="Github Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact" alt="Github Lang Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="420">
 
  
 <!--
