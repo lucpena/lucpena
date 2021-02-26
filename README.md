@@ -1,4 +1,4 @@
-### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45"> Hello there!
+<!-- ### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45"> Hello there! -->
 
 ## Profile stats:
 
