@@ -1,10 +1,8 @@
 <!-- ### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="45"> Hello there! -->
 
 <hr>
+![Lucas Pena](https://github.com/lucpena/lucpena/blob/master/me.jpg)
 
-<p align="center">
-    ![Lucas Pena](https://github.com/lucpena/lucpena/blob/master/me.jpg)
-</p>
 
 ## Profile stats:
 
