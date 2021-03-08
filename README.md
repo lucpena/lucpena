@@ -2,7 +2,7 @@
 
 <hr>
 
-![Lucas Pena](https://github.com/lucpena/lucpena/blob/master/me.jpg)
+<!--![Lucas Pena](https://github.com/lucpena/lucpena/blob/master/me.jpg) -->
 
 
 ## Profile stats:
