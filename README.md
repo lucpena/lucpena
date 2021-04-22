@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/lucpena/lucpena/blob/master/octocat-anime.gif" alt="Octocat" width="420">
+    <img src="https://github.com/lucpena/lucpena/blob/master/octocat-anime.gif" alt="Octocat" width="100">
 </p>
 
 *<p align="center">[stats cards](https://github.com/anuraghazra/github-readme-stats)</p>*
