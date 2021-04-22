@@ -15,6 +15,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="420">
 </p>
 
+<p align="center">
+    <img src="https://github.com/lucpena/lucpena/blob/master/octocat-anime.gif" alt="Octocat" width="420">
+</p>
+
 *<p align="center">[stats cards](https://github.com/anuraghazra/github-readme-stats)</p>*
  
 <!--
