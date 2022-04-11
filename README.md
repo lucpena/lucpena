@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">👋 Hello! I'm Lucas Pena.</h2>
+<h2 align="center">👋 Hello! I am Lucas Pena.</h2>
 
 
 - 👨‍💻 I’m a Computer Science student from Brazil;
