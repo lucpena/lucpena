@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## Profile stats:
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="353">
