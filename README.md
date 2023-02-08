@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">👋 Hello! My name is Lucas Pena.</h2>
+<h2 align="">👋 Hello! My name is Lucas Pena.</h2>
 
 
 - 👨‍💻 I’m a Computer Science student from Brazil;
@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 </p>
 
 *<p align="center">[stats cards](https://github.com/anuraghazra/github-readme-stats)</p>*
+
+
+<h2 align="">Some of my work.</h2>
