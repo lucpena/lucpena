@@ -42,21 +42,3 @@ Here are some ideas to get you started:
 </p>
 
 *<p align="center">[stats cards](https://github.com/anuraghazra/github-readme-stats)</p>*
-
- 
-## Showcase
-
-Here is a little showcase of some of my favourite works:
-
-
-[OpenGL Playground](https://github.com/lucpena/OpenGL-Playground)
-
-![Screenshot 1](https://github.com/lucpena/OpenGL-Playground/blob/main/ss/opengl.png)
-
-[Bomber Game for Atari](https://github.com/lucpena/Atari2600/tree/master/9.%20Bomber%20(Game))
-
-![Bomber Gamer GIF](https://github.com/lucpena/Atari2600/blob/master/9.%20Bomber%20(Game)/ss/bomber.gif)
-
-[Ray Tracing in one Weekend](https://github.com/lucpena/Raytracing-in-one-Weekend)
-
-![img 1](https://github.com/lucpena/Raytracing-in-one-Weekend/blob/main/result.jpg)
