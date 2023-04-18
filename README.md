@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="353">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucpena&show_icons=true&theme=synthwave" alt="Github Stats" width="470" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucpena&layout=compact&theme=synthwave" alt="Github Lang Stats" width="353" height="250">
 </p>
 
 <p align="center">
