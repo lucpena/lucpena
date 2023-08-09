@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m a Computer Science student from Brazil;
 - 🎥 I love Computer Graphics and Web Development;
 - 🪐 My most used languages are C++, JavaScript and Assembly;
-- 🎮 My goals are to build a very cool Engine and to code something to run on a PS2;
+- 🎮 My goals are to build a <a href="https://github.com/lucpena/MOAI-Engine">very cool Engine</a> and to code something to run on a PS2;
 - 🎨 I like games, anime, music, and art.
 
 <h3 align="center"> Check my <a href="https://www.lucaspena.dev">website</a> for a better view of my portfolio.</h3>
