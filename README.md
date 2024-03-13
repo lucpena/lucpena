@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🎮 My goals are to build a <span><a href="https://github.com/lucpena/MOAI-Engine">very cool Engine</a></span> and to code something to run on a PS2;
 - 🎨 I like games, anime, music, and art.
 
-<h3 align="center"> Check my <a href="https://www.lucaspena.dev">website</a> for a better view of my portfolio.</h3>
+<h3 align="center"> Check my <a href="https://lucpena.vercel.app/">website</a> for a better view of my portfolio.</h3>
 
 <br>
 
