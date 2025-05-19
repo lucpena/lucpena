@@ -23,7 +23,7 @@
 ## Some of my favorite projects
 
 ###  [Social Media (Nuxt3 | Vue3 | TailwindCSS | Prisma | PostgreSQL)](https://github.com/lucpena/SocialMedia/)
-<img src="https://github.com/lucpena/SocialMedia/blob/old/ScreenShots/sm-2.png?raw=true" width="100%" alt="Social Media Preview" />
+<img src="https://github.com/lucpena/SocialMedia/blob/old/ScreenShots/sm-2.png?raw=true" width="100%" alt="Social Media Preview." />
 A Twitter clone where posts are stored on a Postgrees database on Vercel
 and images are stored on Cloudnary using APIs. Uses legit encripted
 Authentication. A user can post, with an image attached, to the general
@@ -32,7 +32,7 @@ timeline and reply to another user post, where each reply generates a new thread
 ---
 
 ### [Dashboard (PHP | Laravel 5 | SQLite)](https://github.com/lucpena/Admin-Dashboard)
-<img src="https://github.com/lucpena/Admin-Dashboard/blob/main/ss/1.png?raw=true" width="100%" alt="Dashboard Preview" />
+<img src="https://github.com/lucpena/Admin-Dashboard/blob/main/ss/1.png?raw=true" width="100%" alt="Dashboard Preview." />
 Complete dashboard with a registration system, where Administrators can
 view a list of all users, create new user types and configure their
 permissions, update and delete these types, create and modify permissions,
@@ -41,13 +41,13 @@ and assign a type and permissions to users.
 ---
 
 ### [Moai Engine](https://github.com/lucpena/MOAI-Engine)
-<img src="https://raw.githubusercontent.com/lucpena/MOAI-Engine/refs/heads/main/Screenshots/ss1.png" width="100%" alt="Fractal Viewer" />
+<img src="https://raw.githubusercontent.com/lucpena/MOAI-Engine/refs/heads/main/Screenshots/ss1.png" width="100%" alt="A screenshot of my engine." />
 A 3D engine developed in C++ using OpenGL 3.3. It loads 3D models in .obj format, has light, shadows, and a camera control.
 
 ---
 
 ### [Three.js](https://github.com/lucpena/Three.js/)
-<img src="https://github.com/lucpena/Three.js/blob/master/7.%20RPG/party-01.png?raw=true" width="100%" alt="Visualizer Preview" />
+<img src="https://github.com/lucpena/Three.js/blob/master/7.%20RPG/party-01.png?raw=true" width="100%" alt="A screenshot of a THree.js scene in a nightclub." />
 Place where I save my Three.js projects. There are a link for each one
 to check them out.
 
