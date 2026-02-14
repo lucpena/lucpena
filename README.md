@@ -12,6 +12,8 @@
     <img src="https://github.com/lucpena/lucpena/blob/master/octocat-anime.gif" alt="Octocat" width="100">
 </p>
 
+<img src="https://wimg.rule34.xxx//images/991/7c6c3280e0cfcdff0aa8d419cf4862b75dcc29f2.png" width="100%" alt="Social Media Preview." />
+
 ## Some of my favorite projects
 
 ###  [Social Media (Nuxt3 | Vue3 | TailwindCSS | Prisma | PostgreSQL)](https://github.com/lucpena/SocialMedia/)
