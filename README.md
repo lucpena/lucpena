@@ -1,7 +1,7 @@
 <h2 align="">👋 Hello! My name is Lucas Pena.</h2>
 
 
-- 👨‍💻 I’m a Computer Science student from Brazil;
+- 👨‍💻 I’m a Computer Scientist from Brazil;
 - 🎥 I love Computer Graphics and Web Development;
 - 🪐 My most used languages are C++, JavaScript and Assembly;
 - 🎨 I like games, anime, music, and art.
