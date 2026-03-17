@@ -48,6 +48,32 @@ and assign a type and permissions to users.
 <tr>
 <td width= 50% valign="top">
     
+### [Stock Watcher 9000](https://github.com/lucpena/stock-watcher-9000)
+<img src="https://github.com/lucpena/stock-watcher-9000/blob/main/screenshots/dash-1.png?raw=true" width="100%" alt="Stock Watcher 9000" />
+
+`TypeScript` `Next.js` `Better Auth` `shadcn` `Inngest` `MongoDB` `TailwindCSS` `Gemini API`
+
+In this app, you can analyse the Stock Market in real time. In the main page of the app, you can see a Market Overview, a Stock Heatmap and the main related news. 
+All powered by TradingView widgets. You can search for a specific stock and access a detailed page about thar stock. The application sends a digest made by Google 
+Gemini to the users email automaticaly, using Inngest.
+
+</td>
+<td width= 50% valign="top">
+    
+### [Three.js](https://github.com/lucpena/Three.js/)
+<img src="https://github.com/lucpena/Three.js/blob/master/7.%20RPG/party-01.png?raw=true" width="100%" alt="A screenshot of a Three.js scene in a nightclub." />
+
+`JavaScript` `Three.js`
+
+Main repository that I keep my study Three.js projects. Each project
+has a link or a image to show it.
+
+</td>
+</tr>
+
+<tr>
+<td width= 50% valign="top">
+    
 ### [Moai Engine](https://github.com/lucpena/MOAI-Engine)
 <img src="https://raw.githubusercontent.com/lucpena/MOAI-Engine/refs/heads/main/Screenshots/ss1.png" width="100%" alt="A screenshot of my engine." />
 
@@ -56,15 +82,15 @@ and assign a type and permissions to users.
 A 3D engine developed in C++ using OpenGL 3.3. It loads 3D models in .obj format, has light, shadows, and a camera control.
 
 </td>
-<td width= 50% valign="top">
+<<td width= 50% valign="top">
     
-### [Three.js](https://github.com/lucpena/Three.js/)
-<img src="https://github.com/lucpena/Three.js/blob/master/7.%20RPG/party-01.png?raw=true" width="100%" alt="A screenshot of a THree.js scene in a nightclub." />
+### [Bomber](https://github.com/lucpena/Atari2600)
+<img src="https://github.com/lucpena/Atari2600/blob/master/9.%20Bomber%20(Game)/ss/bomber.gif?raw=true" width="100%" alt="GIF of Bomber Game in Atari" />
 
-`JavaScript` `Three.js`
+`Assembly 6502`
 
-Main repository that I keep my study Three.js projects. Each project
-has a link or a image to show it.
+A bomber game made for the atari. You control a plane that shoots the enemy plane. If the enemy hits the bottom, you will take damage. This game is influenced
+by the original Bomber game for the Atari. You can run the game in an emulator.
 
 </td>
 </tr>
