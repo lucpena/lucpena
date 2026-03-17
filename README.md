@@ -82,7 +82,7 @@ has a link or a image to show it.
 A 3D engine developed in C++ using OpenGL 3.3. It loads 3D models in .obj format, has light, shadows, and a camera control.
 
 </td>
-<<td width= 50% valign="top">
+<td width= 50% valign="top">
     
 ### [Bomber](https://github.com/lucpena/Atari2600)
 <img src="https://github.com/lucpena/Atari2600/blob/master/9.%20Bomber%20(Game)/ss/bomber.gif?raw=true" width="100%" alt="GIF of Bomber Game in Atari" />
