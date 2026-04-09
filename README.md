@@ -12,7 +12,7 @@
     <img src="https://github.com/lucpena/lucpena/blob/master/octocat-anime.gif" alt="Octocat" width="100">
 </p>
 
-## Some of my favorite projects
+## Web Development
 
 <table>
 <tr>
@@ -60,6 +60,36 @@ Gemini to the users email automaticaly, using Inngest.
 </td>
 <td width= 50% valign="top">
     
+### [Subscription API](https://github.com/lucpena/subscription-api/)
+<img src="https://raw.githubusercontent.com/lucpena/subscription-api/refs/heads/main/screenshot.png" width="100%" alt="A screenshot of the API response." />
+
+`JavaScript` `Node.js` `Express.js` `MongoDB` `Arcjet` `Upstash` `Nodemailer`
+
+This application is a Subscription Management System API. It can authenticate users with JWT, connect to a database, create models and schemas and integrate it with ORMS. 
+This API has Rate Limiting and Bot Protection with Arcjet and automated email reminders about the renewal date with Nodemailer and Upstash.
+
+
+</td>
+</tr>
+
+</table>
+
+## Computer Graphics & Games
+
+<table>
+<tr>
+<td width= 50% valign="top">
+    
+### [Moai Engine](https://github.com/lucpena/MOAI-Engine)
+<img src="https://raw.githubusercontent.com/lucpena/MOAI-Engine/refs/heads/main/Screenshots/ss1.png" width="100%" alt="A screenshot of my engine." />
+
+`C++` `OpenGL 3.3` `Visual Studio`
+
+A 3D engine developed in C++ using OpenGL 3.3. It loads 3D models in .obj format, has light, shadows, and a camera control.
+
+</td>
+<td width= 50% valign="top">
+    
 ### [Three.js](https://github.com/lucpena/Three.js/)
 <img src="https://github.com/lucpena/Three.js/blob/master/7.%20RPG/party-01.png?raw=true" width="100%" alt="A screenshot of a Three.js scene in a nightclub." />
 
@@ -74,12 +104,14 @@ has a link or a image to show it.
 <tr>
 <td width= 50% valign="top">
     
-### [Moai Engine](https://github.com/lucpena/MOAI-Engine)
-<img src="https://raw.githubusercontent.com/lucpena/MOAI-Engine/refs/heads/main/Screenshots/ss1.png" width="100%" alt="A screenshot of my engine." />
+### [Raytracing in one Weekend](https://github.com/lucpena/Raytracing-in-one-Weekend)
+<img src="https://github.com/lucpena/Raytracing-in-one-Weekend/blob/main/result.jpg?raw=true" width="100%" alt="A screenshot of the result." />
 
-`C++` `OpenGL 3.3` `Visual Studio`
+`C++`
 
-A 3D engine developed in C++ using OpenGL 3.3. It loads 3D models in .obj format, has light, shadows, and a camera control.
+My implementation of the 'Ray Tracing in One Weekend' tutorial by Peter Shirley.
+It creates a PPM file locally. To view it, you can use GIMP or Krita, as I was using.
+
 
 </td>
 <td width= 50% valign="top">
@@ -100,7 +132,7 @@ by the original Bomber game for the Atari. You can run the game in an emulator.
 ### More projects
 
 Here's some other projects that I like:
-- [Bomber: An ATARI Game in Assembly](https://github.com/lucpena/Atari2600)
+<!-- - [Bomber: An ATARI Game in Assembly](https://github.com/lucpena/Atari2600) -->
 - [Assembler and Linker for a reduced ISA Assembly](https://github.com/lucpena/Assembler-and-Compiler)
 - [RISC-V Emulator in C++](https://github.com/lucpena/RISC-V_Emulator)
 - [RISC-V Single Cycle in VHDL](https://github.com/lucpena/RISC-V-Description)
