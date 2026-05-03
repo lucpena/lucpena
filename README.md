@@ -132,11 +132,9 @@ by the original Bomber game for the Atari. You can run the game in an emulator.
 ### More projects
 
 Here's some other projects that I like:
-<!-- - [Bomber: An ATARI Game in Assembly](https://github.com/lucpena/Atari2600) -->
 - [Assembler and Linker for a reduced ISA Assembly](https://github.com/lucpena/Assembler-and-Compiler)
 - [RISC-V Emulator in C++](https://github.com/lucpena/RISC-V_Emulator)
 - [RISC-V Single Cycle in VHDL](https://github.com/lucpena/RISC-V-Description)
-- [My implementation of "Raytracing in one Weekend"](https://github.com/lucpena/Raytracing-in-one-Weekend)
 - [Some codes in Concurrent Programming](https://github.com/lucpena/Concurrent-Programming)
 - [A Third Person game in Unity](https://github.com/lucpena/Hide-on-Bush)
 
